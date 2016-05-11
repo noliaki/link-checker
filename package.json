@@ -1,0 +1,23 @@
+{
+  "name": "link-checker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noliaki/link-checker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noliaki/link-checker/issues"
+  },
+  "homepage": "https://github.com/noliaki/link-checker#readme",
+  "devDependencies": {
+    "cheerio-httpcli": "^0.6.8",
+    "webpack": "^1.13.0"
+  }
+}
